@@ -100,3 +100,4 @@ def salir():
 if __name__ == '__main__':
     menu_principal()
 print("La ptmr ojala funcione")
+print("La ptmr ojala funcione 2.0")
